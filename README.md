@@ -1,4 +1,4 @@
-# GNN-s-project
+# GAT project
 
 Data Analysis and Prediction on Academic Citation Networks: 
 The main purpose of this analysis is to predict the categories of academic articles. By using the information contained in the citation network and the associated feature vectors, we can develop a predictive model that accurately assigns categories to articles automatically. This model will help organize and facilitate researchers' access to relevant articles in their field of interest.
